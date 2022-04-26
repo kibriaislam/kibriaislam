@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kibriaislam
 - 👀 I’m interested in problem solving and Web development.
-- 🌱 I’m currently learning advance database topics.
+- 🌱 I’m currently working on my personal project with Python and FASTAPI.
 - 💞️ I’m looking forward to collaborate on Web based project with Python and Django.
 - 📫 How to reach me: Kibriaislam82@gmail.com
 
