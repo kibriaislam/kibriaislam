@@ -10,7 +10,7 @@
 
 📫 You can connect with me at:
 - Personal Email: Kibriaislam82@gmail.com
-- Work Email: kibria.islam@reserveitbd.com
+- Work Email: kibria.islam@vector360bd.com
 
 Let's talk,code, solve problems, and craft exceptional software together! 🚀
 
