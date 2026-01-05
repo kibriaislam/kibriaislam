@@ -1,4 +1,4 @@
-### Hi there, I'm Kibria Islam 👋
+### Hi there, I'm Kibria Islam 
 
 I'm a seasoned software engineer with a strong focus on backend development using .NET C#.
 
