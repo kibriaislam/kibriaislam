@@ -91,7 +91,7 @@ My experience spans RESTful API design, microservices, CQRS, background processi
 ![Kibria's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kibriaislam&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kibriaislam&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kibriaislam&count_private=true&layout=compact&langs_count=6&theme=github_dark&hide_border=true)
 
 </div>
 
